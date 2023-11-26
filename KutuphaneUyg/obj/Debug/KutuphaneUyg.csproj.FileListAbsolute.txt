@@ -1,0 +1,11 @@
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\bin\Debug\KutuphaneUyg.exe.config
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\bin\Debug\KutuphaneUyg.exe
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\bin\Debug\KutuphaneUyg.pdb
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.csproj.AssemblyReference.cache
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.Form1.resources
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.Properties.Resources.resources
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.csproj.GenerateResource.cache
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.csproj.CoreCompileInputs.cache
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.exe
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.pdb
+C:\Users\SEMIH\source\repos\KutuphaneUyg\KutuphaneUyg\obj\Debug\KutuphaneUyg.Form2.resources
